@@ -1,0 +1,98 @@
+﻿.CombinatePage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.app-logo {
+  height: 40vmin;
+  margin: 10px;
+  mix-blend-mode: multiply;
+}
+
+.message-green {
+  color: #77b92d;
+  margin-top: 200px;
+  margin-left: 10px;
+  font-family: Cambria;
+  font-style: initial;
+  font-size: 30px;
+}
+
+.game-photo {
+  margin-left: 300px;
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+.game-video {
+  margin-left: 300px;
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+
+
+.incearca-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+
+.mai-incearca{
+  
+  color: rgb(18, 3, 16);
+  padding: 15px 30px;
+  font-weight: bold;
+  font-size: 25px;
+  margin-right: 550px;
+  margin-top: -60px;
+}
+
+
+p {
+  color: black;
+}
+
+.CombinatePage strong {
+  color: #77b92d;
+}
+
+.CombinatePage input {
+  font-size: 45px;
+  padding: 7px;
+  margin: -2px;
+  border: 4px solid #77b92d;
+  border-radius: 4px;
+  width: 150px;
+}
+
+button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin: 10px;
+  font-weight: bold;
+  background-color: #c5d5e2;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #a9c3d0;
+}
+
+.scooby-picture {
+  height: 80vmin;
+  mix-blend-mode: multiply;
+  margin-top: 50px; /* Adaugăm spațiu între conținut și imaginea Scooby */
+}
+
+.numar-container {
+  font-size: 70px;
+}

@@ -1,0 +1,148 @@
+.start1 {
+  background-image: url("https://i.postimg.cc/fyKB8p26/temp-Image-E06r-Z8.jpg");
+  background-size: cover;
+  min-height: 100vh;
+}
+.AdunarePage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin-top: 20px;
+}
+.container {
+  align-items: center;
+  margin-top: 100px;
+}
+.app-logo {
+  height: 40vmin;
+  margin: 10px;
+  mix-blend-mode: multiply;
+}
+
+.message {
+  color: #7f0aa9; /* Culoare violet pentru Adunare */
+  margin-top: 200px;
+  margin-left: 10px;
+  font-family: Cambria;
+  font-style: initial;
+  font-size: 30px;
+}
+
+.incearca-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+
+.mai-incearca{
+  
+  color: rgb(18, 3, 16);
+  padding: 15px 30px;
+  font-weight: bold;
+  font-size: 25px;
+  margin-right: 550px;
+  margin-top: -40px;
+}
+
+
+
+.AdunarePage strong {
+  color: #740f8a;
+}
+
+.AdunarePage input {
+  font-size: 45px;
+  padding: 7px;
+  margin: -2px;
+  border: 4px solid #6a056d;
+  border-radius: 4px;
+  width: 150px;
+}
+
+.AdunarePage button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin: 10px;
+  font-weight: bold;
+  background-color: #c5d5e2;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.AdunarePage button:hover {
+  background-color: #a9c3d0;
+}
+
+.numere-container {
+  padding-top: -10px;
+  padding-right: 700px;
+  color: #7f0aa9;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.content-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%; /* Sau orice valoare doriti */
+}
+
+.align-left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.numar {
+  margin-bottom: 10px;
+  white-space: pre;
+}
+
+.game-photo {
+  margin-left: 300px;
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+.game-video {
+  margin-left: 300px;
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+
+.numar {
+  font-size: 70px;
+}
+
+.align {
+  align-items: center;
+}
+
+.align-right {
+  margin-right: 700px;
+}
+
+.go-to-start-button {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  background-color: #7d0099;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.go-to-start-button:hover {
+  background-color: #7d0099;
+}
